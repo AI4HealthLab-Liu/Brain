@@ -1,2 +1,7 @@
 mialab.mrn.org
 
+
+Welcome to the Medical Image Analysis (MIA) Laboratory!
+MIALAB, headed by Dr. Vince Calhoun, focuses on developing and optimizing methods and software for quantitative analysis of structure and function in medical images with particular focus on the study of psychiatric illness. We work with many types of data, including functional magnetic resonance imaging (fMRI), diffusion tensor imaging (DTI), electroencephalography (EEG), structural imaging and genetic data.
+
+Much of our time is spent working on new methods for flexible analysis of brain imaging data. The use of data driven approaches is very useful for extracting potentially unpredictable patterns within these data. However such methods can be further improved by incorporating additional prior information as constraints, in order to benefit from what we know. To this end, we draw heavily from the areas of image processing, adaptive signal processing, estimation theory, neural networks, statistical signal processing, and pattern recognition.
